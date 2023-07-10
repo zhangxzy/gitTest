@@ -22,6 +22,10 @@
     print *, 'Hello World'
     print *, 'Hello World1'
     pause
+    
+    print*,11
+    print*,11
+    print*,11
 
     end program gitTest
 
