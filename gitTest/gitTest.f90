@@ -21,6 +21,7 @@
     ! Body of gitTest
     print *, 'Hello World'
     print *, 'Hello World1'
+    pause
 
     end program gitTest
 
